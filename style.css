@@ -26,7 +26,7 @@ body{
 #img{ 
     width:21em;
     height:15em;
-    background-image:url(images/image-header-mobile.jpg);
+    background-image:url(image-header-mobile.jpg);
     background-position:bottom;
     background-repeat:no-repeat;
     background-size:100%;
@@ -83,7 +83,7 @@ body{
     #img{ 
         width:100%;
         height:auto;
-        background-image:url(images/image-header-desktop.jpg);
+        background-image:url(image-header-desktop.jpg);
         background-position:center;
         background-repeat:no-repeat;
         background-size:100% 100%;
