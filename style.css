@@ -90,6 +90,7 @@ body{
         background-color:hsl(277, 64%, 61%);
         border-top-right-radius:7px;
         border-bottom-right-radius:7px;
+        border-top-left-radius:0px;
     }
 img{
     display:block;
@@ -98,6 +99,7 @@ img{
     opacity:0.8; 
     border-top-right-radius:7px;
     border-bottom-right-radius:7px;
+    border-top-left-radius:0px;
 
 }
       
