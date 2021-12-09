@@ -94,7 +94,7 @@ body{
     }
 img{
     display:block;
-    max-width:100%;
+    min-width:100%;
     mix-blend-mode:multiply;
     opacity:0.8; 
     border-top-right-radius:7px;
